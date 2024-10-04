@@ -187,10 +187,10 @@ export default function LandingPage() {
             <div className="mx-auto max-w-3xl text-center">
               <blockquote>
                 <p className="text-xl text-gray-500">
-                  "Code Empowerment changed my life. I never thought I could
+                  Code Empowerment changed my life. I never thought I could
                   become a programmer, but their courses and mentorship made it
                   possible. Now, I&apos;m working as a software developer and
-                  giving back to my community."
+                  giving back to my community
                 </p>
               </blockquote>
               <div className="mt-8">
